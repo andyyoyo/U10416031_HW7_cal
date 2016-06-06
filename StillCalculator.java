@@ -247,6 +247,9 @@ public class StillCalculator extends Application{
 			
 		});
 	}
-    
+	//main method
+    	public static void main(String[] args) {
+      		launch(args);
+  	}
       
 }      
